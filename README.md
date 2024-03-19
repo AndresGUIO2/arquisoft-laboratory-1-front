@@ -23,16 +23,17 @@ Para correr la aplicación en tu entorno local, sigue estos pasos:
 1. Clona el repositorio en tu máquina local:
 
 git clone https://github.com/tu-usuario/sitas.git
-cd sitas
-Instala las dependencias del proyecto:
+
+2. Instala las dependencias del proyecto:
 
 npm install
-Ejecuta la aplicación en modo de desarrollo:
+
+3. Ejecuta la aplicación en modo de desarrollo:
 
 npm run dev
 La aplicación se iniciará y podrá ser accesible en http://localhost:3000.
 
-Uso en Producción
+3. Uso en Producción
 Para compilar y ejecutar la aplicación en un entorno de producción, ejecuta:
 
 npm run build
