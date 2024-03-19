@@ -26,17 +26,14 @@ git clone https://github.com/tu-usuario/sitas.git
 cd sitas
 Instala las dependencias del proyecto:
 
-Copy code
 npm install
 Ejecuta la aplicación en modo de desarrollo:
 
-Copy code
 npm run dev
 La aplicación se iniciará y podrá ser accesible en http://localhost:3000.
 
 Uso en Producción
 Para compilar y ejecutar la aplicación en un entorno de producción, ejecuta:
 
-Copy code
 npm run build
 npm start
